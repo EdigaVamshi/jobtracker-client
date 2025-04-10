@@ -38,3 +38,5 @@ A simple and responsive job tracking website to help you keep track of companies
 - `cd jobtracker-server`
 - `npm install`
 - Create a `.env` file in the folder
+
+###NOTE: Use your localhost:XXXX while fetching data in the frontend in local environment i.e `await axios.method('http://localhost:XXXX/applied-jobs', formData)`
